@@ -4,6 +4,7 @@ import Services from './components/Service/Services';
 import ServicePrice from './components/Service/ServicePrice';
 import Offer from './components/Service/Offer';
 import WorkingProcess from './components/Service/WorkingProcess/WorkingProcess';
+import Blog from './components/Blog/Blog';
 
 const services = () => {
   return (
@@ -12,6 +13,7 @@ const services = () => {
       <ServicePrice></ServicePrice>
       <Offer></Offer>
      <WorkingProcess></WorkingProcess>
+     <Blog/>
     </div>
   );
 };

@@ -56,7 +56,7 @@ const data = [
 
 const BrandLogos = () => {
   return (
-    <div className="grid place-items-center text-center overflow-hidden py-20 min-w-full text-primary-700">
+    <div className="grid place-items-center text-center overflow-hidden pt-20 pb-28 min-w-full text-primary-700">
       <div className="m-auto max-w-screen-3xl">
         {/* m-w */}
         <div className="flex flex-shrink-0 gap-20 whitespace-nowrap">

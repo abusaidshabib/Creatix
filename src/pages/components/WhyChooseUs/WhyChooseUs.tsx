@@ -3,7 +3,7 @@ import Choose from "../../../assets/WhyChooseUs.svg";
 
 const WhyChooseUs = () => {
   return (
-        <section className="py-16">
+        <section className="pt-16 pb-28">
       <div className="flex container mx-auto">
         <div className="w-1/2">
           <Image

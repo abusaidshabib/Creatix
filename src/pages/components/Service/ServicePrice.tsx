@@ -20,9 +20,9 @@ const ServicePrice = () => {
   ];
 
   return (
-    <div className="lg:mx-16 mx-5">
+    <div className="lg:mx-16 mx-5 pb-16">
       <div className="text-center">
-        <p className="lg:mt-10 mt-10 text-accent-600 font-serif font-bold">
+        <p className="lg:mt-10 mt-10 text-accent-600 font-serif font-bold text-lg">
           Pricing Plans
         </p>
         <p className="lg:text-4xl text-2xl mb-5 mt-3 lg:mt-3 font-bold font-serif">
